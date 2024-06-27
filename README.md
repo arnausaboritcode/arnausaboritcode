@@ -7,8 +7,6 @@ If you have any questions, suggestions, or ideas for collaboration, feel free to
 
 ---
 
-### :eye: About Me
-
 ![snake-animation](https://raw.githubusercontent.com/arnausaboritcode/arnausaboritcode/output/snake.svg)
 
 [![profile-views](https://visitcount.itsvg.in/api?id=arnausaboritcode&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
