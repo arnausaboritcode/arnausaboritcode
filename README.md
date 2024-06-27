@@ -7,9 +7,7 @@ If you have any questions, suggestions, or ideas for collaboration, feel free to
 
 ---
 
-<div align="center">
-  ![snake-animation](https://raw.githubusercontent.com/arnausaboritcode/arnausaboritcode/output/snake.svg)
-</div>
+![snake-animation](https://raw.githubusercontent.com/arnausaboritcode/arnausaboritcode/output/snake.svg)
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
