@@ -7,6 +7,12 @@ If you have any questions, suggestions, or ideas for collaboration, feel free to
 
 ---
 
-![snake-animation](https://raw.githubusercontent.com/arnausaboritcode/arnausaboritcode/output/snake.svg)
+<div align="center">
+  ![snake-animation](https://raw.githubusercontent.com/arnausaboritcode/arnausaboritcode/output/snake.svg)
+</div>
 
-[![profile-views](https://visitcount.itsvg.in/api?id=arnausaboritcode&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=arnausaboritcode&label=Profile%20Views&pretty=true" alt="profile-views">
+  </a>
+</div>
